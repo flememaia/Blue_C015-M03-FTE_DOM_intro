@@ -1,0 +1,20 @@
+.hidden {
+    display: none;
+}
+
+.cor_de_fundo {
+    background-color: blue;
+}
+
+.btn-add, 
+.btn-remove {
+    width: 100px;
+}
+
+.btn-add {
+    background-color: green;
+}
+
+.btn-remove {
+    background-color: red;
+}
